@@ -1,0 +1,41 @@
+{
+  "counter": 4,
+  "avis": [
+    {
+      "id": "1772698548.743353",
+      "user": 1304501042364416073,
+      "email": "BASSEMmn",
+      "lien": "https://cdn.discordapp.com/attachments/1478073760048222390/1478446014342893598/1772558555660-61e05c4a25a67e91.jpg?ex=69aa67e6&is=69a91666&hm=2a8f41827adb0c5de6744b71d92418bbbc64aff121feefec116c8e905266a17a",
+      "qualite": "5",
+      "image": "https://cdn.discordapp.com/attachments/1478717824208732233/1479044749880197214/IMG_20250808_183203.jpg?ex=69aa9b43&is=69a949c3&hm=d4b87731ab7e74e9283f40901cefa7de0fc9549d8b66a8421a12442b88752a71&"
+    },
+    {
+      "id": "1772703399.024599",
+      "user": 1304501042364416073,
+      "email": "bassemmnafeg1@gmail.com",
+      "lien": "https://img.freepik.com/free-vector/tropic-summer-party-banner-template_107791-31547.jpg?semt=ais_user_personalization&w=740&q=80",
+      "qualite": "5",
+      "image": "https://cdn.discordapp.com/attachments/1478717824208732233/1479065093286137998/Screenshot_20250920-153203.png?ex=69aaae35&is=69a95cb5&hm=8a2c58e95b0690a7f666cf0f2178147f8b3a893d6ee8dd9532640a2a63e73b90&"
+    },
+    {
+      "id": "1772707289.421389",
+      "user": 1304501042364416073,
+      "email": "bassemmnafeg1@gmail.com",
+      "lien": "https://img.freepik.com/free-vector/tropic-summer-party-banner-template_107791-31547.jpg?semt=ais_user_personalization&w=740&q=80",
+      "qualite": "5",
+      "image": "https://cdn.discordapp.com/attachments/1478717824208732233/1479081410521337919/Screenshot_20250920-153203.png?ex=69aabd68&is=69a96be8&hm=89631a4c1698fbfc119d0334b468e83c86434bc7c9953c601a50febf8169a6ee&"
+    },
+    {
+      "id": "1772707592.259223",
+      "user": 1304501042364416073,
+      "email": "bassemmnafeg1@gmail.com",
+      "lien": "https://img.freepik.com/free-vector/tropic-summer-party-banner-template_107791-31547.jpg?semt=ais_user_personalization&w=740&q=80",
+      "qualite": "5",
+      "image": "https://cdn.discordapp.com/attachments/1478717824208732233/1479082678866149661/1772558555660-61e05c4a25a67e91_1.jpg?ex=69aabe96&is=69a96d16&hm=568cccd33f2bec78548c3fd0165d0f447f1fa4d16c1ef985f5d97213bc47d195&"
+    }
+  ],
+  "fiches": [],
+  "en_cours": {},
+  "message_principal_id": 1479026403830792254,
+  "message_id": 1479064209126981783
+}
